@@ -62,4 +62,4 @@ The parameters were chosen manually by try and error. First, make sure the car c
 
 ## Simulation
 
-A short video with the final parameters is [./final.mov](final.mov).
+A short video with the final parameters is [Video](final.mov).
